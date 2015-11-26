@@ -1,0 +1,25 @@
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Courses\WCF\Assignments\Final\InsuranceQuoteService\InsuranceQuoteService\bin\InsuranceQuoteService.dll
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Courses\WCF\Assignments\Final\InsuranceQuoteService\InsuranceQuoteService\bin\InsuranceQuoteService.pdb
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Courses\WCF\Assignments\Final\InsuranceQuoteService\InsuranceQuoteService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Courses\WCF\Assignments\Final\InsuranceQuoteService\InsuranceQuoteService\obj\Debug\InsuranceQuoteService.dll
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Courses\WCF\Assignments\Final\InsuranceQuoteService\InsuranceQuoteService\obj\Debug\InsuranceQuoteService.pdb
+G:\WCF\Assignments\Final\InsuranceQuoteService\InsuranceQuoteService\bin\InsuranceQuoteService.dll
+G:\WCF\Assignments\Final\InsuranceQuoteService\InsuranceQuoteService\bin\InsuranceQuoteService.pdb
+G:\WCF\Assignments\Final\InsuranceQuoteService\InsuranceQuoteService\obj\Debug\ResolveAssemblyReference.cache
+G:\WCF\Assignments\Final\InsuranceQuoteService\InsuranceQuoteService\obj\Debug\InsuranceQuoteService.dll
+G:\WCF\Assignments\Final\InsuranceQuoteService\InsuranceQuoteService\obj\Debug\InsuranceQuoteService.pdb
+E:\WCF\Assignments\Final\InsuranceQuoteService\InsuranceQuoteService\bin\InsuranceQuoteService.dll
+E:\WCF\Assignments\Final\InsuranceQuoteService\InsuranceQuoteService\bin\InsuranceQuoteService.pdb
+E:\WCF\Assignments\Final\InsuranceQuoteService\InsuranceQuoteService\obj\Debug\ResolveAssemblyReference.cache
+E:\WCF\Assignments\Final\InsuranceQuoteService\InsuranceQuoteService\obj\Debug\InsuranceQuoteService.dll
+E:\WCF\Assignments\Final\InsuranceQuoteService\InsuranceQuoteService\obj\Debug\InsuranceQuoteService.pdb
+E:\WCF\Assignments\Final\old\InsuranceQuoteService\InsuranceQuoteService\bin\InsuranceQuoteService.dll
+E:\WCF\Assignments\Final\old\InsuranceQuoteService\InsuranceQuoteService\bin\InsuranceQuoteService.pdb
+E:\WCF\Assignments\Final\old\InsuranceQuoteService\InsuranceQuoteService\obj\Debug\ResolveAssemblyReference.cache
+E:\WCF\Assignments\Final\old\InsuranceQuoteService\InsuranceQuoteService\obj\Debug\InsuranceQuoteService.dll
+E:\WCF\Assignments\Final\old\InsuranceQuoteService\InsuranceQuoteService\obj\Debug\InsuranceQuoteService.pdb
+G:\WCF\Assignments\Final\old\InsuranceQuoteService\InsuranceQuoteService\bin\InsuranceQuoteService.dll
+G:\WCF\Assignments\Final\old\InsuranceQuoteService\InsuranceQuoteService\bin\InsuranceQuoteService.pdb
+G:\WCF\Assignments\Final\old\InsuranceQuoteService\InsuranceQuoteService\obj\Debug\ResolveAssemblyReference.cache
+G:\WCF\Assignments\Final\old\InsuranceQuoteService\InsuranceQuoteService\obj\Debug\InsuranceQuoteService.dll
+G:\WCF\Assignments\Final\old\InsuranceQuoteService\InsuranceQuoteService\obj\Debug\InsuranceQuoteService.pdb

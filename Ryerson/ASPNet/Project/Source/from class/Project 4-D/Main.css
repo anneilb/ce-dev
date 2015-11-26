@@ -1,0 +1,86 @@
+﻿
+.MasterPageTitle
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: xx-large;
+	font-weight: bold;
+	font-style: italic;
+	color: #3399FF;
+}
+.MasterPageTagline
+{
+	font-family: 'Times New Roman' , Times, serif;
+	font-size: medium;
+	font-weight: bold;
+}
+.MasterPageContactInfo
+{
+	font-family: 'Times New Roman' , Times, serif;
+	font-size: small;
+}
+
+.MasterPageContentLink
+{
+	font-family: 'MS Sans Serif';
+	font-weight: bold;
+	font-size: x-small;
+}
+
+.DataListColumnWidthSmall
+{
+	width: 100px;
+}
+
+.DataListColumnWidthSmall15
+{
+	width: 150px;
+}
+
+.DataListColumnWidthMedium
+{
+	width: 200px;
+}
+
+.DataListColumnWidthMedium15
+{
+	width: 250px;
+}
+
+.DataListColumnWidthLarge
+{
+	width: 300px;
+}
+
+.DataListColumnWidthLarge15
+{
+	width: 350px;
+}
+
+.DataListColumnWidthXL
+{
+	width: 400px;
+}
+
+.ListViewLayoutTemplateHeader
+{
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #507CD1;
+}
+
+.ListViewLayoutTemplateFooter
+{
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #CCCCCC;
+}
+
+.ListViewItemTemplate
+{
+	background-color: #EFF3FB;
+}
+
+.ListViewAlternatingItemTemplate
+{
+	background-color: #FFFFFF;
+}

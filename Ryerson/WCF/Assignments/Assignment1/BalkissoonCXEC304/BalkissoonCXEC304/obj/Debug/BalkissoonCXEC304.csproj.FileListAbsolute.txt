@@ -1,0 +1,6 @@
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Courses\WCF\Assignments\Assignment1\BalkissoonCXEC304\BalkissoonCXEC304\bin\Debug\BalkissoonCXEC304.dll.config
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Courses\WCF\Assignments\Assignment1\BalkissoonCXEC304\BalkissoonCXEC304\bin\Debug\BalkissoonCXEC304.dll
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Courses\WCF\Assignments\Assignment1\BalkissoonCXEC304\BalkissoonCXEC304\bin\Debug\BalkissoonCXEC304.pdb
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Courses\WCF\Assignments\Assignment1\BalkissoonCXEC304\BalkissoonCXEC304\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Courses\WCF\Assignments\Assignment1\BalkissoonCXEC304\BalkissoonCXEC304\obj\Debug\BalkissoonCXEC304.dll
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Courses\WCF\Assignments\Assignment1\BalkissoonCXEC304\BalkissoonCXEC304\obj\Debug\BalkissoonCXEC304.pdb

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Database Name="TechSupport" Class="TechSupportDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Table Name="dbo.Customers" Member="SQLCustomers">
+    <Type Name="SQLCustomer">
+      <Column Name="CustomerID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Address" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="City" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="State" Type="System.String" DbType="Char(2) NOT NULL" CanBeNull="false" />
+      <Column Name="ZipCode" Type="System.String" DbType="VarChar(9) NOT NULL" CanBeNull="false" />
+      <Column Name="Phone" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="Email" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Association Name="SQLCustomer_SQLIncident" Member="SQLIncidents" ThisKey="CustomerID" OtherKey="CustomerID" Type="SQLIncident" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Incidents" Member="SQLIncidents">
+    <Type Name="SQLIncident">
+      <Column Name="IncidentID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="CustomerID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ProductCode" Type="System.String" DbType="Char(10) NOT NULL" CanBeNull="false" />
+      <Column Name="TechID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DateOpened" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="DateClosed" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Title" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Description" Type="System.String" DbType="VarChar(2000) NOT NULL" CanBeNull="false" />
+      <Association Name="SQLCustomer_SQLIncident" Member="SQLCustomer" ThisKey="CustomerID" OtherKey="CustomerID" Type="SQLCustomer" IsForeignKey="true" />
+      <Association Name="SQLTechnician_SQLIncident" Member="SQLTechnician" ThisKey="TechID" OtherKey="TechID" Type="SQLTechnician" IsForeignKey="true" DeleteRule="CASCADE" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Technicians" Member="SQLTechnicians">
+    <Type Name="SQLTechnician">
+      <Column Name="TechID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Email" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Phone" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Association Name="SQLTechnician_SQLIncident" Member="SQLIncidents" ThisKey="TechID" OtherKey="TechID" Type="SQLIncident" />
+    </Type>
+  </Table>
+</Database>

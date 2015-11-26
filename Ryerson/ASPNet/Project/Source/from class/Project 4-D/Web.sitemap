@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    
+  <siteMapNode url="~/Default.aspx" title="Home"  description="Home page">
+    
+      <siteMapNode url="~/Customer/CustomerSupport.aspx" title="Customer Support"  description="Customer Support">
+        <siteMapNode url="~/Customer/ProductRegistration.aspx" title="Register products"  description="Register your SportsPro products"/>
+        <siteMapNode url="~/Customer/CustomerSurvey.aspx" title="Complete customer survey"  description="Tell us how we're doing!"/>
+        <siteMapNode url="~/Customer/ContactUs.aspx" title="Contact us"  description="Contact information"/>
+      </siteMapNode>
+    
+      <siteMapNode url="~/Tech/TechnicianSupport.aspx" title="Technician Support"  description="Technician Support">
+        <siteMapNode url="~/Tech/CustomerIncidentDisplay.aspx" title="Display customer incidents"  description="View customer incidents"/>
+        <siteMapNode url="~/Tech/IncidentUpdate.aspx" title="Update incidents"  description="Update and close customer incidents"/>
+      </siteMapNode>
+    
+      <siteMapNode url="~/Admin/Administration.aspx" title="Administration"  description="Administration">
+        <siteMapNode url="~/Admin/ProductMaintenance.aspx" title="Maintain products"  description="Product record maintenance"/>
+        <siteMapNode url="~/Admin/CustomerMaintenance.aspx" title="Maintain customers"  description="Customer record maintenance"/>
+        <siteMapNode url="~/Admin/TechnicianMaintenance.aspx" title="Maintain technicians"  description="Technician record maintenance"/>
+        <siteMapNode url="~/Admin/IncidentCreation.aspx" title="Create incidents"  description="Create an incident record"/>
+        <siteMapNode url="~/Admin/TechnicianIncidentSummary.aspx" title="Display technician incidents"  description="View incidents by technician"/>
+        <siteMapNode url="~/Admin/IncidentAssignment.aspx" title="Assign incidents"  description="Assign incidents to technicians"/>
+        <siteMapNode url="~/Admin/IncidentDisplay.aspx" title="Display incidents"  description="View incident"/>
+        <siteMapNode url="~/Admin/CustomerDisplay.aspx" title="Display customers"  description="View customers"/>
+      </siteMapNode>
+    
+      <siteMapNode url="~/Map.aspx" title="Site Map"  description="View site map"/>
+    
+  </siteMapNode>
+  
+</siteMap>

@@ -1,0 +1,8 @@
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\StudentApp\StudentApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\StudentApp\StudentApp\obj\Debug\StudentApp.frmStudent.resources
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\StudentApp\StudentApp\obj\Debug\StudentApp.Properties.Resources.resources
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\StudentApp\StudentApp\obj\Debug\StudentApp.csproj.GenerateResource.Cache
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\StudentApp\StudentApp\bin\Debug\StudentApp.exe
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\StudentApp\StudentApp\bin\Debug\StudentApp.pdb
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\StudentApp\StudentApp\obj\Debug\StudentApp.exe
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\StudentApp\StudentApp\obj\Debug\StudentApp.pdb

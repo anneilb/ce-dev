@@ -1,0 +1,7 @@
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Exercise3\Exercise3\Exercise3MainApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Exercise3\Exercise3\Exercise3MainApp\bin\Debug\Exercise3MainApp.exe
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Exercise3\Exercise3\Exercise3MainApp\bin\Debug\Exercise3MainApp.pdb
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Exercise3\Exercise3\Exercise3MainApp\obj\Debug\Exercise3MainApp.exe
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Exercise3\Exercise3\Exercise3MainApp\obj\Debug\Exercise3MainApp.pdb
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Exercise3\Exercise3\Exercise3MainApp\bin\Debug\Exercise3Lib.dll
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Exercise3\Exercise3\Exercise3MainApp\bin\Debug\Exercise3Lib.pdb

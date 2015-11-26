@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientApp", "ClientApp\ClientApp.csproj", "{9EA288DA-C421-4CB6-94A8-FC38BC4C557E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E3CBD0CB-7620-43F5-BD0E-11185433A931} = {E3CBD0CB-7620-43F5-BD0E-11185433A931}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BalkissoonCXEC304", "BalkissoonCXEC304\BalkissoonCXEC304.csproj", "{E3CBD0CB-7620-43F5-BD0E-11185433A931}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EA288DA-C421-4CB6-94A8-FC38BC4C557E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EA288DA-C421-4CB6-94A8-FC38BC4C557E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EA288DA-C421-4CB6-94A8-FC38BC4C557E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EA288DA-C421-4CB6-94A8-FC38BC4C557E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3CBD0CB-7620-43F5-BD0E-11185433A931}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3CBD0CB-7620-43F5-BD0E-11185433A931}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3CBD0CB-7620-43F5-BD0E-11185433A931}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3CBD0CB-7620-43F5-BD0E-11185433A931}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

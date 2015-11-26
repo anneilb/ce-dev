@@ -1,0 +1,13 @@
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Courses\SQL Server 2008\Assignments\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Courses\SQL Server 2008\Assignments\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Courses\SQL Server 2008\Assignments\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Courses\SQL Server 2008\Assignments\Assignment1\Assignment1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Courses\SQL Server 2008\Assignments\Assignment1\Assignment1\obj\Debug\Assignment1.frmMain.resources
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Courses\SQL Server 2008\Assignments\Assignment1\Assignment1\obj\Debug\Assignment1.frmProductMaintenance.resources
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Courses\SQL Server 2008\Assignments\Assignment1\Assignment1\obj\Debug\Assignment1.Properties.Resources.resources
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Courses\SQL Server 2008\Assignments\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.GenerateResource.Cache
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Courses\SQL Server 2008\Assignments\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Courses\SQL Server 2008\Assignments\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Courses\SQL Server 2008\Assignments\Assignment1\Assignment1\obj\Debug\Assignment1.frmCustomerMaintenance.resources
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Courses\SQL Server 2008\Assignments\Assignment1\Assignment1\obj\Debug\Assignment1.frmProductIncidents.resources
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Courses\SQL Server 2008\Assignments\Assignment1\Assignment1\obj\Debug\Assignment1.frmCustomer.resources

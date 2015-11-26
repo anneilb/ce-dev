@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="2e582592-6447-4b87-a009-bb2b24e056dd" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost/InsuranceQuoteService/InsuranceQuoteService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="InsuranceQuoteService3.xsd" MetadataType="Schema" ID="6270455c-da95-4cbc-afb2-904c42a7ea2a" SourceId="1" SourceUrl="http://dell/InsuranceQuoteService/InsuranceQuoteService.svc?xsd=xsd1" />
+    <MetadataFile FileName="InsuranceQuoteService1.disco" MetadataType="Disco" ID="de115b98-8d1f-47ca-ae43-21eef66a94a8" SourceId="1" SourceUrl="http://dell/InsuranceQuoteService/InsuranceQuoteService.svc?disco" />
+    <MetadataFile FileName="InsuranceQuoteService1.wsdl" MetadataType="Wsdl" ID="c7f8fd50-0f95-4e87-9204-993c19335971" SourceId="1" SourceUrl="http://dell/InsuranceQuoteService/InsuranceQuoteService.svc?wsdl" />
+    <MetadataFile FileName="InsuranceQuoteService31.xsd" MetadataType="Schema" ID="65c3231d-955a-40cd-8f9d-344b843a547d" SourceId="1" SourceUrl="http://dell/InsuranceQuoteService/InsuranceQuoteService.svc?xsd=xsd2" />
+    <MetadataFile FileName="InsuranceQuoteService32.xsd" MetadataType="Schema" ID="57aa9105-005a-4235-bffd-db3d1edbbe53" SourceId="1" SourceUrl="http://dell/InsuranceQuoteService/InsuranceQuoteService.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

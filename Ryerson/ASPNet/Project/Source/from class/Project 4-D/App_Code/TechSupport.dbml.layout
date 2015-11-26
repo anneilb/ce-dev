@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="TechSupport">
+  <DataContextMoniker Name="/TechSupportDataContext" />
+  <nestedChildShapes>
+    <classShape Id="48bffbb5-5ed0-42e3-b653-a6a7236657c3" absoluteBounds="0.625, 2.125, 2, 1.4248478190104168">
+      <DataClassMoniker Name="/TechSupportDataContext/Technician" />
+      <nestedChildShapes>
+        <elementListCompartment Id="70c79e8f-aadf-4784-947a-a23df39423c0" absoluteBounds="0.64000000000000012, 2.585, 1.9700000000000002, 0.86484781901041674" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="694f1276-48c2-4d8b-b892-ae1800553811" absoluteBounds="3.5, 1.75, 2, 2.0822371419270831">
+      <DataClassMoniker Name="/TechSupportDataContext/IncidentRecord" />
+      <nestedChildShapes>
+        <elementListCompartment Id="64d7a6cc-8348-4173-b48b-63ea2791154e" absoluteBounds="3.5149999999999997, 2.21, 1.9700000000000002, 1.5222371419270833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.625 : 2.83742390950521); (3.5 : 2.83742390950521)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/TechSupportDataContext/Technician/Technician_IncidentRecord" />
+      <nodes>
+        <classShapeMoniker Id="48bffbb5-5ed0-42e3-b653-a6a7236657c3" />
+        <classShapeMoniker Id="694f1276-48c2-4d8b-b892-ae1800553811" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

@@ -1,0 +1,15 @@
+table 	{border-width:1px; border-style:solid; 
+   	border-collapse:separate; empty-cells:show}
+
+td	{border-width:1px; border-style:solid; 
+   	border-collapse:separate; empty-cells:show; 
+	padding:5px}
+
+tr	{border-width:1px; border-style:solid; 
+   	 border-collapse:separate; empty-cells:show}
+
+tr.heading1 	{background-color:darkblue; color:white; 
+           	font-weight:bold; text-align:center}
+
+td.vertheading1 {background-color:darkblue; color:white; 
+		font-style:italic}

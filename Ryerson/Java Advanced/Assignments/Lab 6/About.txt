@@ -1,0 +1,19 @@
+Hi Ilia,
+Here is my submission for assignment 6.
+
+For exercise 1, I've implemented separate TCP and UDP clients. I interpreted your assignment instructions to mean we needed to implement both. I only realized in last week's class that it should have been only one with the protocol of our choice. In any case, both are done.
+
+For exercise 2, I implemented a multi-tier application design. As you suggested, I implemented a DBManager class to manage the low level DB connection handling and generic SQL calls. This means that it could be used to handle a completely different type of database if needed like SQL Server, etc. 
+
+There is then a class named ProductDB that uses the DBManager to connect to the related MySQL DB and provides public methods for manipulating data in the Product table. 
+
+Finally, there is a Product class which represent the business layer. It represents a single product record. It is used the by the user interface (ProductDBManager) to send and receive data stored in the Product table.
+
+If you need change the database connection details, you can edit the following constants in the ProductDB class:
+
+CONNECTION_URL, USERNAME, and PASSWORD.
+
+Please let me know if you have any questions.
+
+Thanks,
+Anneil

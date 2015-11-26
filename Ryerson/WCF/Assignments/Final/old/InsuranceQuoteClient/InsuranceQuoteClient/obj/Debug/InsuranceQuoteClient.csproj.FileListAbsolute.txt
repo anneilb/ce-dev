@@ -1,0 +1,27 @@
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Courses\WCF\Assignments\Final\InsuranceQuoteClient\InsuranceQuoteClient\bin\Debug\InsuranceQuoteClient.exe.config
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Courses\WCF\Assignments\Final\InsuranceQuoteClient\InsuranceQuoteClient\bin\Debug\InsuranceQuoteClient.exe
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Courses\WCF\Assignments\Final\InsuranceQuoteClient\InsuranceQuoteClient\bin\Debug\InsuranceQuoteClient.pdb
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Courses\WCF\Assignments\Final\InsuranceQuoteClient\InsuranceQuoteClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Courses\WCF\Assignments\Final\InsuranceQuoteClient\InsuranceQuoteClient\obj\Debug\InsuranceQuoteClient.Form1.resources
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Courses\WCF\Assignments\Final\InsuranceQuoteClient\InsuranceQuoteClient\obj\Debug\InsuranceQuoteClient.Properties.Resources.resources
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Courses\WCF\Assignments\Final\InsuranceQuoteClient\InsuranceQuoteClient\obj\Debug\InsuranceQuoteClient.csproj.GenerateResource.Cache
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Courses\WCF\Assignments\Final\InsuranceQuoteClient\InsuranceQuoteClient\obj\Debug\InsuranceQuoteClient.exe
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Courses\WCF\Assignments\Final\InsuranceQuoteClient\InsuranceQuoteClient\obj\Debug\InsuranceQuoteClient.pdb
+G:\WCF\Assignments\Final\InsuranceQuoteClient\InsuranceQuoteClient\bin\Debug\InsuranceQuoteClient.exe.config
+G:\WCF\Assignments\Final\InsuranceQuoteClient\InsuranceQuoteClient\obj\Debug\InsuranceQuoteClient.exe
+G:\WCF\Assignments\Final\InsuranceQuoteClient\InsuranceQuoteClient\obj\Debug\InsuranceQuoteClient.pdb
+G:\WCF\Assignments\Final\InsuranceQuoteClient\InsuranceQuoteClient\bin\Debug\InsuranceQuoteClient.exe
+G:\WCF\Assignments\Final\InsuranceQuoteClient\InsuranceQuoteClient\bin\Debug\InsuranceQuoteClient.pdb
+G:\WCF\Assignments\Final\InsuranceQuoteClient\InsuranceQuoteClient\obj\Debug\ResolveAssemblyReference.cache
+G:\WCF\Assignments\Final\InsuranceQuoteClient\InsuranceQuoteClient\obj\Debug\InsuranceQuoteClient.Form1.resources
+G:\WCF\Assignments\Final\InsuranceQuoteClient\InsuranceQuoteClient\obj\Debug\InsuranceQuoteClient.Properties.Resources.resources
+G:\WCF\Assignments\Final\InsuranceQuoteClient\InsuranceQuoteClient\obj\Debug\InsuranceQuoteClient.csproj.GenerateResource.Cache
+E:\WCF\Assignments\Final\InsuranceQuoteClient\InsuranceQuoteClient\bin\Debug\InsuranceQuoteClient.exe.config
+E:\WCF\Assignments\Final\InsuranceQuoteClient\InsuranceQuoteClient\obj\Debug\InsuranceQuoteClient.exe
+E:\WCF\Assignments\Final\InsuranceQuoteClient\InsuranceQuoteClient\obj\Debug\InsuranceQuoteClient.pdb
+E:\WCF\Assignments\Final\InsuranceQuoteClient\InsuranceQuoteClient\bin\Debug\InsuranceQuoteClient.exe
+E:\WCF\Assignments\Final\InsuranceQuoteClient\InsuranceQuoteClient\bin\Debug\InsuranceQuoteClient.pdb
+E:\WCF\Assignments\Final\InsuranceQuoteClient\InsuranceQuoteClient\obj\Debug\ResolveAssemblyReference.cache
+E:\WCF\Assignments\Final\InsuranceQuoteClient\InsuranceQuoteClient\obj\Debug\InsuranceQuoteClient.Form1.resources
+E:\WCF\Assignments\Final\InsuranceQuoteClient\InsuranceQuoteClient\obj\Debug\InsuranceQuoteClient.Properties.Resources.resources
+E:\WCF\Assignments\Final\InsuranceQuoteClient\InsuranceQuoteClient\obj\Debug\InsuranceQuoteClient.csproj.GenerateResource.Cache

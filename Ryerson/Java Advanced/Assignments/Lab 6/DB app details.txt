@@ -1,0 +1,6 @@
+- Use a JTextArea to display resultSet.
+- Add a refresh button to display fresh data for resultSet.
+
+OR
+
+- Use JTable to display resultSet. See Java2S.com for examples.

@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{14FD91E4-106D-46A6-AD72-C0565B07C969}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SportsPro</RootNamespace>
+    <AssemblyName>SportsPro</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmCreateIncident.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCreateIncident.Designer.cs">
+      <DependentUpon>frmCreateIncident.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCustomer.designer.cs">
+      <DependentUpon>frmCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCustomerIncidents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCustomerIncidents.Designer.cs">
+      <DependentUpon>frmCustomerIncidents.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCustomerMaintenance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCustomerMaintenance.designer.cs">
+      <DependentUpon>frmCustomerMaintenance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCustomerProducts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCustomerProducts.Designer.cs">
+      <DependentUpon>frmCustomerProducts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmIncidentAssignment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIncidentAssignment.Designer.cs">
+      <DependentUpon>frmIncidentAssignment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOpenIncidents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOpenIncidents.Designer.cs">
+      <DependentUpon>frmOpenIncidents.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmProductIncidents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProductIncidents.designer.cs">
+      <DependentUpon>frmProductIncidents.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmProductMaintenance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProductMaintenance.designer.cs">
+      <DependentUpon>frmProductMaintenance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTechnicianIncidents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTechnicianIncidents.Designer.cs">
+      <DependentUpon>frmTechnicianIncidents.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUnassignedIncidents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUnassignedIncidents.Designer.cs">
+      <DependentUpon>frmUnassignedIncidents.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmCreateIncident.resx">
+      <DependentUpon>frmCreateIncident.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCustomer.resx">
+      <DependentUpon>frmCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCustomerIncidents.resx">
+      <DependentUpon>frmCustomerIncidents.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCustomerMaintenance.resx">
+      <DependentUpon>frmCustomerMaintenance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCustomerProducts.resx">
+      <DependentUpon>frmCustomerProducts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIncidentAssignment.resx">
+      <DependentUpon>frmIncidentAssignment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOpenIncidents.resx">
+      <DependentUpon>frmOpenIncidents.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProductIncidents.resx">
+      <DependentUpon>frmProductIncidents.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProductMaintenance.resx">
+      <DependentUpon>frmProductMaintenance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTechnicianIncidents.resx">
+      <DependentUpon>frmTechnicianIncidents.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUnassignedIncidents.resx">
+      <DependentUpon>frmUnassignedIncidents.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\DataSources\TechSupportData.Incident.datasource" />
+    <None Include="Properties\DataSources\TechSupportData.SQLCustomer.datasource" />
+    <None Include="Properties\DataSources\TechSupportData.SQLIncident.datasource" />
+    <None Include="Properties\DataSources\TechSupportData.SQLTechnician.datasource" />
+    <None Include="Properties\DataSources\TechSupportData.Technician.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="TechSupportDataSet2A.xsc">
+      <DependentUpon>TechSupportDataSet2A.xsd</DependentUpon>
+    </None>
+    <None Include="TechSupportDataSet2A.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TechSupportDataSet2A.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="TechSupportDataSet2A.xss">
+      <DependentUpon>TechSupportDataSet2A.xsd</DependentUpon>
+    </None>
+    <None Include="TechSupportDataSet2B.xsc">
+      <DependentUpon>TechSupportDataSet2B.xsd</DependentUpon>
+    </None>
+    <None Include="TechSupportDataSet2B.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TechSupportDataSet2B.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="TechSupportDataSet2B.xss">
+      <DependentUpon>TechSupportDataSet2B.xsd</DependentUpon>
+    </None>
+    <None Include="TechSupportDataSet2C.xsc">
+      <DependentUpon>TechSupportDataSet2C.xsd</DependentUpon>
+    </None>
+    <None Include="TechSupportDataSet2C.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TechSupportDataSet2C.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TechSupportDataSet2C.xss">
+      <DependentUpon>TechSupportDataSet2C.xsd</DependentUpon>
+    </None>
+    <None Include="TechSupportDataSet4A.xsc">
+      <DependentUpon>TechSupportDataSet4A.xsd</DependentUpon>
+    </None>
+    <None Include="TechSupportDataSet4A.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TechSupportDataSet4A.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TechSupportDataSet4A.xss">
+      <DependentUpon>TechSupportDataSet4A.xsd</DependentUpon>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Settings.cs" />
+    <Compile Include="TechSupportDataSet2A.Designer.cs">
+      <DependentUpon>TechSupportDataSet2A.xsd</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="TechSupportDataSet2B.Designer.cs">
+      <DependentUpon>TechSupportDataSet2B.xsd</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="TechSupportDataSet2C.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TechSupportDataSet2C.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="TechSupportDataSet4A.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TechSupportDataSet4A.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Validator.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TechSupportData\TechSupportData.csproj">
+      <Project>{DB061C04-5968-4D05-A4CE-A62CF7D749B4}</Project>
+      <Name>TechSupportData</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="2e582592-6447-4b87-a009-bb2b24e056dd" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost/InsuranceQuoteService/InsuranceQuoteService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="InsuranceQuoteService.disco" MetadataType="Disco" ID="d53a73fd-dbe5-4b7a-87fc-30787cb6cae3" SourceId="1" SourceUrl="http://to-abalddto-pc.na.rtdom.net/InsuranceQuoteService/InsuranceQuoteService.svc?disco" />
+    <MetadataFile FileName="InsuranceQuoteService.wsdl" MetadataType="Wsdl" ID="002342be-4a22-450f-af36-c5d1b1b2972c" SourceId="1" SourceUrl="http://to-abalddto-pc.na.rtdom.net/InsuranceQuoteService/InsuranceQuoteService.svc?wsdl" />
+    <MetadataFile FileName="InsuranceQuoteService.xsd" MetadataType="Schema" ID="a2d4be73-f30b-4c5b-9340-c8035766259f" SourceId="1" SourceUrl="http://to-abalddto-pc.na.rtdom.net/InsuranceQuoteService/InsuranceQuoteService.svc?xsd=xsd0" />
+    <MetadataFile FileName="InsuranceQuoteService1.xsd" MetadataType="Schema" ID="f901aa7c-d5e4-477a-9cac-3fd1ab9319fe" SourceId="1" SourceUrl="http://to-abalddto-pc.na.rtdom.net/InsuranceQuoteService/InsuranceQuoteService.svc?xsd=xsd1" />
+    <MetadataFile FileName="InsuranceQuoteService2.xsd" MetadataType="Schema" ID="4c062802-67c4-43dc-b831-2bd4824fdfd9" SourceId="1" SourceUrl="http://to-abalddto-pc.na.rtdom.net/InsuranceQuoteService/InsuranceQuoteService.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

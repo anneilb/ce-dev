@@ -1,0 +1,5 @@
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\DeveloperApp\DeveloperApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\DeveloperApp\DeveloperApp\bin\Debug\DeveloperApp.exe
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\DeveloperApp\DeveloperApp\bin\Debug\DeveloperApp.pdb
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\DeveloperApp\DeveloperApp\obj\Debug\DeveloperApp.exe
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\DeveloperApp\DeveloperApp\obj\Debug\DeveloperApp.pdb

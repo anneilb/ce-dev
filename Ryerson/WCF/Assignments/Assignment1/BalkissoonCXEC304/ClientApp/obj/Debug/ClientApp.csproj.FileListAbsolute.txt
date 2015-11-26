@@ -1,0 +1,15 @@
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Courses\WCF\Assignments\Assignment1\BalkissoonCXEC304\ClientApp\bin\Debug\ClientApp.exe
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Courses\WCF\Assignments\Assignment1\BalkissoonCXEC304\ClientApp\bin\Debug\ClientApp.pdb
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Courses\WCF\Assignments\Assignment1\BalkissoonCXEC304\ClientApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Courses\WCF\Assignments\Assignment1\BalkissoonCXEC304\ClientApp\obj\Debug\ClientApp.Properties.Resources.resources
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Courses\WCF\Assignments\Assignment1\BalkissoonCXEC304\ClientApp\obj\Debug\ClientApp.csproj.GenerateResource.Cache
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Courses\WCF\Assignments\Assignment1\BalkissoonCXEC304\ClientApp\obj\Debug\ClientApp.exe
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Courses\WCF\Assignments\Assignment1\BalkissoonCXEC304\ClientApp\obj\Debug\ClientApp.pdb
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Courses\WCF\Assignments\Assignment1\BalkissoonCXEC304\ClientApp\obj\Debug\ClientApp.frmCalculator.resources
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Courses\WCF\Assignments\Assignment1\BalkissoonCXEC304\ClientApp\bin\Debug\ClientApp.exe.config
+E:\WCF\Assignments\Assignment1\BalkissoonCXEC304\ClientApp\bin\Debug\ClientApp.exe.config
+E:\WCF\Assignments\Assignment1\BalkissoonCXEC304\ClientApp\obj\Debug\ClientApp.exe
+E:\WCF\Assignments\Assignment1\BalkissoonCXEC304\ClientApp\obj\Debug\ClientApp.pdb
+G:\WCF\Assignments\Assignment1\BalkissoonCXEC304\ClientApp\bin\Debug\ClientApp.exe.config
+G:\WCF\Assignments\Assignment1\BalkissoonCXEC304\ClientApp\obj\Debug\ClientApp.exe
+G:\WCF\Assignments\Assignment1\BalkissoonCXEC304\ClientApp\obj\Debug\ClientApp.pdb

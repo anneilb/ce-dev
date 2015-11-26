@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="4802e677-6759-4ff2-8f9f-a67c81fdbe0c" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8080/BalkissoonCXEC304/FutureValueCalculator/" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="item.xsd" MetadataType="Schema" ID="1d2eb4a0-1ee9-4347-bddf-53df7d46e478" SourceId="1" SourceUrl="http://localhost:8080/BalkissoonCXEC304/FutureValueCalculator/?xsd=xsd0" />
+    <MetadataFile FileName="item1.xsd" MetadataType="Schema" ID="69c8f22b-1ce3-405a-8cfe-f8e9f4f16004" SourceId="1" SourceUrl="http://localhost:8080/BalkissoonCXEC304/FutureValueCalculator/?xsd=xsd1" />
+    <MetadataFile FileName="FutureValueCalculator.wsdl" MetadataType="Wsdl" ID="14ef2c78-cbf7-46ea-a28c-0ecad3200b57" SourceId="1" SourceUrl="http://localhost:8080/BalkissoonCXEC304/FutureValueCalculator/?wsdl" />
+    <MetadataFile FileName="item.disco" MetadataType="Disco" ID="3234eea0-b005-405b-ba96-2c01dd6748c8" SourceId="1" SourceUrl="http://localhost:8080/BalkissoonCXEC304/FutureValueCalculator/?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

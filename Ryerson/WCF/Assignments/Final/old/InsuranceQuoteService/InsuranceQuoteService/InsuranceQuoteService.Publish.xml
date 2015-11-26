@@ -1,0 +1,14 @@
+<publishData>
+  <publishTarget publishUrl="http://localhost/InsuranceQuoteService/">
+    <file relUrl="bin/InsuranceQuoteService.pdb" publishTime="12/09/2009 15:14:30" />
+    <file relUrl="bin/InsuranceQuoteService.dll" publishTime="12/09/2009 15:14:30" />
+    <file relUrl="InsuranceQuoteService.svc" publishTime="12/09/2009 14:51:28" />
+    <file relUrl="Web.config" publishTime="12/09/2009 14:52:04" />
+  </publishTarget>
+  <publishTarget publishUrl="http://127.0.0.1/InsuranceQuoteService/">
+    <file relUrl="bin/InsuranceQuoteService.dll" publishTime="12/06/2009 13:32:21" />
+    <file relUrl="InsuranceQuoteService.svc" publishTime="11/29/2009 14:50:24" />
+    <file relUrl="bin/InsuranceQuoteService.pdb" publishTime="12/06/2009 13:32:21" />
+    <file relUrl="Web.config" publishTime="12/06/2009 13:59:13" />
+  </publishTarget>
+</publishData>

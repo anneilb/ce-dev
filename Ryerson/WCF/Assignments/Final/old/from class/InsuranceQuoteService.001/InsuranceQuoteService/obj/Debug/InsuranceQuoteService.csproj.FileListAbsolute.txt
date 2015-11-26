@@ -1,0 +1,5 @@
+E:\WCF\Assignments\Final\InsuranceQuoteService\InsuranceQuoteService\bin\InsuranceQuoteService.dll
+E:\WCF\Assignments\Final\InsuranceQuoteService\InsuranceQuoteService\bin\InsuranceQuoteService.pdb
+E:\WCF\Assignments\Final\InsuranceQuoteService\InsuranceQuoteService\obj\Debug\ResolveAssemblyReference.cache
+E:\WCF\Assignments\Final\InsuranceQuoteService\InsuranceQuoteService\obj\Debug\InsuranceQuoteService.dll
+E:\WCF\Assignments\Final\InsuranceQuoteService\InsuranceQuoteService\obj\Debug\InsuranceQuoteService.pdb

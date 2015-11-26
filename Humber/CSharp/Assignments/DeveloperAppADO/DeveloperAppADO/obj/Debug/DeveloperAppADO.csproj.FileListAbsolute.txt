@@ -1,0 +1,9 @@
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\DeveloperAppADO\DeveloperAppADO\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\DeveloperAppADO\DeveloperAppADO\obj\Debug\DeveloperAppADO.frmDeveloper.resources
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\DeveloperAppADO\DeveloperAppADO\obj\Debug\DeveloperAppADO.Properties.Resources.resources
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\DeveloperAppADO\DeveloperAppADO\obj\Debug\DeveloperAppADO.csproj.GenerateResource.Cache
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\DeveloperAppADO\DeveloperAppADO\bin\Debug\DeveloperAppADO.exe
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\DeveloperAppADO\DeveloperAppADO\bin\Debug\DeveloperAppADO.pdb
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\DeveloperAppADO\DeveloperAppADO\obj\Debug\DeveloperAppADO.exe
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\DeveloperAppADO\DeveloperAppADO\obj\Debug\DeveloperAppADO.pdb
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\DeveloperAppADO\DeveloperAppADO\obj\Debug\DeveloperAppADO.frmDepartment.resources

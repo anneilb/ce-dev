@@ -1,0 +1,5 @@
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Exercise1\Exercise1\Exercise1\obj\Debug\Exercise1.exe
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Exercise1\Exercise1\Exercise1\obj\Debug\Exercise1.pdb
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Exercise1\Exercise1\Exercise1\bin\Debug\Exercise1.exe
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Exercise1\Exercise1\Exercise1\bin\Debug\Exercise1.pdb
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Exercise1\Exercise1\Exercise1\obj\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,19 @@
+/* Save and run the entire script in one file */
+/* Student information database tables 
+   Run this from the root */
+
+drop database assignment6;
+create database assignment6;
+
+use assignment6;
+
+drop table if exists Product;
+
+create table Product (
+  productId char(10) not null, 
+  productDescription varchar(100),
+  productPrice double,
+  constraint pkDepartment primary key (productId));
+
+insert into Product values (
+  'LB', 'Laptop Battery', 45);

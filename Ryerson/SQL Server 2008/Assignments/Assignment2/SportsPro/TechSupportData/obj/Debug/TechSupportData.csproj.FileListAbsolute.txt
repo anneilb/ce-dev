@@ -1,0 +1,5 @@
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Courses\SQL Server 2008\Assignments\Assignment2\SportsPro\TechSupportData\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Courses\SQL Server 2008\Assignments\Assignment2\SportsPro\TechSupportData\bin\Debug\TechSupportData.dll
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Courses\SQL Server 2008\Assignments\Assignment2\SportsPro\TechSupportData\bin\Debug\TechSupportData.pdb
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Courses\SQL Server 2008\Assignments\Assignment2\SportsPro\TechSupportData\obj\Debug\TechSupportData.dll
+C:\Documents and Settings\Anneil\My Documents\Visual Studio 2008\Projects\Courses\SQL Server 2008\Assignments\Assignment2\SportsPro\TechSupportData\obj\Debug\TechSupportData.pdb

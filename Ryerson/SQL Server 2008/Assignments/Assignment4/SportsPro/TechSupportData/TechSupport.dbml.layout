@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="TechSupport">
+  <DataContextMoniker Name="/TechSupportDataContext" />
+  <nestedChildShapes>
+    <classShape Id="610aaf49-5262-4298-8973-dffe8aad4b6b" absoluteBounds="0.5, 3, 2, 2.0822371419270831">
+      <DataClassMoniker Name="/TechSupportDataContext/SQLCustomer" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8ea4aa3b-85bb-40aa-91a5-098e0cbfe583" absoluteBounds="0.51500000000000012, 3.46, 1.9700000000000002, 1.5222371419270833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="55d44a74-7e53-449a-a79c-38aaaa6394f6" absoluteBounds="3.125, 3, 2, 2.0822371419270831">
+      <DataClassMoniker Name="/TechSupportDataContext/SQLIncident" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c1eecb30-e50f-4187-a0e7-f85eb824c217" absoluteBounds="3.14, 3.46, 1.9700000000000002, 1.5222371419270833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.5 : 4.04111857096354); (3.125 : 4.04111857096354)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/TechSupportDataContext/SQLCustomer/SQLCustomer_SQLIncident" />
+      <nodes>
+        <classShapeMoniker Id="610aaf49-5262-4298-8973-dffe8aad4b6b" />
+        <classShapeMoniker Id="55d44a74-7e53-449a-a79c-38aaaa6394f6" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="4bf5d8a0-d465-41fc-8439-67c01453f06f" absoluteBounds="1.75, 5.625, 2, 1.4248478190104168">
+      <DataClassMoniker Name="/TechSupportDataContext/SQLTechnician" />
+      <nestedChildShapes>
+        <elementListCompartment Id="15a420c2-aabd-41ed-9cb5-015a464ec000" absoluteBounds="1.7650000000000001, 6.085, 1.9700000000000002, 0.86484781901041674" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(3.4375 : 5.625); (3.4375 : 5.08223714192708)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TechSupportDataContext/SQLTechnician/SQLTechnician_SQLIncident" />
+      <nodes>
+        <classShapeMoniker Id="4bf5d8a0-d465-41fc-8439-67c01453f06f" />
+        <classShapeMoniker Id="55d44a74-7e53-449a-a79c-38aaaa6394f6" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

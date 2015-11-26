@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://dell/InsuranceQuoteService/InsuranceQuoteService.svc?xsd=xsd1" namespace="http://schemas.datacontract.org/2004/07/InsuranceQuoteService" />
+  <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/InsuranceQuoteService" name="InsuredInformation" nillable="true" type="q1:InsuredInfo" />
+  <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/InsuranceQuoteService" name="QuoteInformation" nillable="true" type="q2:InsuranceQuoteInfo" />
+  <xs:element name="GetQuote">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q3="http://schemas.datacontract.org/2004/07/InsuranceQuoteService" minOccurs="0" name="insuredInformation" nillable="true" type="q3:InsuredInfo" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetQuoteResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q4="http://schemas.datacontract.org/2004/07/InsuranceQuoteService" minOccurs="0" name="GetQuoteResult" nillable="true" type="q4:InsuranceQuoteInfo" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
